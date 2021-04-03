@@ -98,7 +98,7 @@ main (int argc, char *argv[])
 {
   gpgme_ctx_t ctx;
   gpgme_error_t err;
-  gpgme_data_t in, out/*,plain*/;
+  gpgme_data_t in, out;
   gpgme_key_t key[3] = { NULL, NULL, NULL },skey;
   gpgme_encrypt_result_t result;
   gpgme_sign_result_t sign_result;
