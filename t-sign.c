@@ -34,7 +34,6 @@
 
 #include "t-support.h"
 
-
 static void
 check_result (gpgme_sign_result_t result, gpgme_sig_mode_t type)
 {

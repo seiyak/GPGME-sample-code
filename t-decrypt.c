@@ -35,7 +35,6 @@
 
 #include "t-support.h"
 
-
 int 
 main (int argc, char *argv[])
 {

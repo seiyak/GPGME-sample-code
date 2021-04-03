@@ -23,6 +23,7 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <locale.h>
+#include <string.h>
 
 #ifdef HAVE_W32_SYSTEM
 #include <windows.h>

@@ -72,10 +72,6 @@ progress_cb (void *opaque, const char *what, int type, int current, int total)
   /* This is just a dummy. */
 }
 
-
-
-
-
 int 
 main (int argc, char *argv[])
 {

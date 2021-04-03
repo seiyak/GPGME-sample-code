@@ -33,7 +33,6 @@
 
 #include "t-support.h"
 
-
 /* True if progress function printed something on the screen.  */
 static int progress_called;
 
